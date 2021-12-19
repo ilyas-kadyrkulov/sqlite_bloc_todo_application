@@ -25,7 +25,7 @@ class TodoEditView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: Text(ConstText.todoEditView)),
       body: Container(
-        padding: const EdgeInsets.all(25.0),
+        padding: const EdgeInsets.all(28.0),
         child: Column(
           children: <Widget>[
             _titleTextFormField(),
