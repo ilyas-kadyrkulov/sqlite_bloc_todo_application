@@ -10,6 +10,7 @@
 
 ### Plugins used
 - **datetime_picker_formfield** - for interactivity, when choosing the date.
+ 
 ![datetime_picker](https://i.imgur.com/EKWIKEj.png)
 
 - **intl** - to define DateFormat to be *day-month-year*.
